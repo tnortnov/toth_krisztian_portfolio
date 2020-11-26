@@ -1,0 +1,71 @@
+img.én{
+    width: 200px;
+    height: 300px;
+    float: left;
+}
+img.EUSP{
+    width:500px;
+    height: 260px;
+}
+table.tb1, td.td1{
+    align-items: center;
+  border: 1px solid black;
+  border-collapse: collapse;
+  background-color: #af803a;
+}
+img.e{
+    widows: 180px;
+    height: 240px;
+} 
+img.DSD{
+    widows: 180px;
+    height: 240px;
+}
+img.AN{
+    widows: 180px;
+    height: 240px;
+}
+img.Dua{
+    widows: 180px;
+    height: 240px;
+}
+img.g1{
+    widows: 180px;
+    height: 250px;
+    float: center;
+}
+img.g2{
+    width: 350px;
+    height: 250px;
+    float: center;
+}
+img.utc{
+    width: 400px;
+    height: 250px;
+    float: center;
+}
+body{
+    background-color: #3aaf51 ;
+    font color: #17252a;
+
+
+}
+h1{
+    color:black;
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+p{
+  
+    text-align: justify-all;
+    
+}
+
+a{
+    color: #f0f2de; 
+}
+h3{
+    color: #af3a3a;
+}
